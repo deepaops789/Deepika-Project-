@@ -1,2 +1,3 @@
 This is Simple Java application program
-This file is for explaining Sanvi.
+This file is  explaining java program to Sanvi.
+
